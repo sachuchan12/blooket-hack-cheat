@@ -1,5 +1,4 @@
-# blooket-hack-cheat
-blooket hack spoof blook:
+# blooket-hack-cheat spoof blook
 alert("Made by Sachuchan12, this is spoof so you can't do anything to the blook even you have it.")
 spoofBlooks = {
         "Chick": "https://blooket.s3.us-east-2.amazonaws.com/blooks/farmAnimals/chick.svg",
