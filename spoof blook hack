@@ -1,4 +1,4 @@
-alert("Made by Sachuchan12, this is spoof so you can't do anything to the blook even you have it.")
+alert("Made by Sachuchan12, this is spoof so you can't do anything to the blook even you have it. Sub yo Sachuchan!")
 spoofBlooks = {
         "Chick": "https://blooket.s3.us-east-2.amazonaws.com/blooks/farmAnimals/chick.svg",
         "Chicken": "https://blooket.s3.us-east-2.amazonaws.com/blooks/farmAnimals/chicken.svg",
